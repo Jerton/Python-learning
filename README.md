@@ -1,2 +1,4 @@
-# CS-61A
-Python self-learning
+#Python self-learning
+cs 61A
+sublime pycharm vscode-->learning building environment
+
